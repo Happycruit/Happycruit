@@ -2,7 +2,7 @@
 - 👀 I’m interested in recruiting tech talents globally
 - 🌱 I’m currently learning how to play ukalele
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me, please add me on LinkedIN https://www.linkedin.com/in/handira/
 
 <!---
 Happycruit/Happycruit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
